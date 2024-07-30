@@ -1,12 +1,12 @@
 {
   "_fv": 39,
-  "_type": "livingentity",
+  "_type": "zombie bruhhh",
   "definition": {
-    "mobName": "Serial Designation N",
+    "mobName": "you",
     "mobLabel": "",
     "mobModelName": "Biped",
-    "mobModelTexture": "serial_designation_n.png",
-    "mobModelGlowTexture": "serial_designation_n_1.png",
+    "mobModelTexture": "**REDACTED**.png",
+    "mobModelGlowTexture": "**REDACTED**.png",
     "solidBoundingBox": {
       "fixedValue": false
     },
@@ -27,7 +27,7 @@
       "value": "MISC"
     },
     "isBoss": false,
-    "bossBarColor": "PINK",
+    "bossBarColor": "rainbow bruhh",
     "bossBarType": "PROGRESS",
     "equipmentMainHand": {
       "value": ""
@@ -47,7 +47,7 @@
     "equipmentBoots": {
       "value": ""
     },
-    "mobBehaviourType": "Mob",
+    "mobBehaviourType": "**REDACTED**",
     "mobCreatureType": "UNDEFINED",
     "attackStrength": 5,
     "attackKnockback": 0.0,
@@ -81,7 +81,7 @@
     "immuneToWither": false,
     "immuneToDragonBreath": true,
     "mobDrop": {
-      "value": "CUSTOM:HeadWithOil"
+      "value": "CUSTOM: **REDACTED**"
     },
     "livingSound": {
       "value": "entity.cat.purreow"
@@ -93,7 +93,7 @@
       "value": "entity.generic.death"
     },
     "stepSound": {
-      "value": "CUSTOM:robot_walks"
+      "value": "CUSTOM:  **REDACTED**"
     },
     "hasAI": true,
     "aiBase": "(none)",
@@ -102,7 +102,7 @@
     "tameable": true,
     "breedTriggerItems": [
       {
-        "value": "CUSTOM:DroneOil.bucket"
+        "value": "CUSTOM:  **REDACTED**"
       }
     ],
     "ranged": false,
