@@ -1,8 +1,8 @@
 {
   "_fv": 39,
-  "_type": "recipe",
+  "_type": "**REDACTED**",
   "definition": {
-    "recipeType": "Crafting",
+    "recipeType": "**REDACTED**",
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
@@ -10,37 +10,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.COAL#0"
+        "value": " "
       },
       {
-        "value": "Blocks.COAL_BLOCK"
+        "value": " "
       },
       {
-        "value": "Items.COAL#0"
+        "value": " "
       },
       {
-        "value": "Items.COPPER_INGOT"
+        "value": " "
       },
       {
-        "value": "CUSTOM:Absolutesolveritem"
+        "value": "CUSTOM:   **REDACTED**"
       },
       {
-        "value": "Items.COPPER_INGOT"
+        "value": "Items.**REDACTED**"
       },
       {
-        "value": "Items.COAL#0"
+        "value": "Items.**REDACTED**"
       },
       {
-        "value": "Blocks.COAL_BLOCK"
+        "value": "Blocks.**REDACTED**"
       },
       {
-        "value": "Items.COAL#0"
+        "value": "Items.**REDACTED**"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DisassemblyRequired"
+      "value": "CUSTOM: **REDACTED**"
     },
-    "name": "disassembly_required",
+    "name": "**REDACTED**",
     "namespace": "mod"
   }
 }
