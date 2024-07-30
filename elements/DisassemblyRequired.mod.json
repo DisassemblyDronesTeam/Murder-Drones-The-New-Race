@@ -1,17 +1,17 @@
 {
   "_fv": 39,
-  "_type": "musicdisc",
+  "_type": "**REDACTED**",
   "definition": {
     "name": "Murder Drones OST",
-    "texture": "invicon_music_disc_5_1",
+    "texture": "**REDACTED**",
     "description": "Liam Vickers - Disassembly Required",
     "creativeTab": {
-      "value": "CUSTOM:MurderDrones"
+      "value": "**REDACTED**"
     },
     "specialInfo": [],
     "hasGlow": false,
     "music": {
-      "value": "CUSTOM:dis_required"
+      "value": "**REDACTED**"
     },
     "lengthInTicks": 2340,
     "analogOutput": 8
