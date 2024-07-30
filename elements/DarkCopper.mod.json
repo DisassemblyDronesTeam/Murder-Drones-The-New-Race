@@ -33,9 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Dark Copper",
-    "specialInfo": [
-      "Dark energy emanates from the ore when you hold it in your hands..."
+    **REDACTED**
     ],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -44,19 +42,9 @@
     "creativeTab": {
       "value": "BUILDING_BLOCKS"
     },
-    "destroyTool": "pickaxe",
-    "customDrop": {
-      "value": "CUSTOM:Absolutesolveritem"
+    **REDACTED**
     },
-    "dropAmount": 2,
-    "useLootTableForDrops": false,
-    "requiresCorrectTool": true,
-    "enchantPowerBonus": 0.0,
-    "plantsGrowOn": false,
-    "canRedstoneConnect": false,
-    "lightOpacity": 0,
-    "material": {
-      "value": "ROCK"
+    **REDACTED**
     },
     "tickRate": 0,
     "tickRandomly": true,
@@ -65,9 +53,7 @@
     "emittedRedstonePower": {
       "fixedValue": 10.0
     },
-    "colorOnMap": "DEFAULT",
-    "creativePickItem": {
-      "value": "CUSTOM:DarkCopper"
+    **REDACTED**
     },
     "offsetType": "NONE",
     "aiPathNodeType": "BLOCKED",
@@ -75,17 +61,7 @@
       "value": -16777216,
       "falpha": 0.0
     },
-    "flammability": 0,
-    "fireSpreadSpeed": 0,
-    "isLadder": false,
-    "slipperiness": 0.6,
-    "speedFactor": 1.0,
-    "jumpFactor": 1.0,
-    "reactionToPushing": "NORMAL",
-    "isNotColidable": false,
-    "isCustomSoundType": false,
-    "soundOnStep": {
-      "value": "NETHERITE"
+    **REDACTED**
     },
     "breakSound": {
       "value": ""
@@ -102,35 +78,12 @@
     "stepSound": {
       "value": ""
     },
-    "luminance": 5,
-    "unbreakable": false,
-    "breakHarvestLevel": 1,
-    "isBonemealable": false,
-    "hasInventory": false,
-    "guiBoundTo": "<NONE>",
-    "openGUIOnRightClick": false,
-    "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "inventoryDropWhenDestroyed": true,
-    "inventoryComparatorPower": true,
-    "inventoryOutSlotIDs": [],
-    "inventoryInSlotIDs": [],
-    "hasEnergyStorage": false,
-    "energyInitial": 0,
-    "energyCapacity": 400000,
-    "energyMaxReceive": 200,
-    "energyMaxExtract": 200,
-    "isFluidTank": false,
-    "fluidCapacity": 8000,
-    "fluidRestrictions": [],
-    "spawnWorldTypes": [],
-    "restrictionBiomes": [],
-    "blocksToReplace": [
+    **REDACTED**
       {
-        "value": "Blocks.STONE"
+        "value": "**REDACTED**"
       }
     ],
-    "generationShape": "UNIFORM",
+    "generationShape": "**REDACTED**",
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
