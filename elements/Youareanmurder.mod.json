@@ -1,9 +1,9 @@
 {
   "_fv": 39,
-  "_type": "achievement",
+  "_type": "milk  (water) ",
   "definition": {
-    "achievementName": "You are a murder!",
-    "achievementDescription": "Drink an Drone's Oil and become a Murder Drone.",
+    "achievementName": "**REDACTED**",
+    "achievementDescription": "Drink an **REDACTED**.",
     "achievementIcon": {
       "value": "Items.SKULL#1"
     },
@@ -16,9 +16,9 @@
     "rewardRecipes": [],
     "rewardFunction": "No function",
     "rewardXP": 50,
-    "achievementType": "task",
+    "achievementType": "who knows?...",
     "parent": {
-      "value": "CUSTOM:GetAbsoluteSolver"
+      "value": "CUSTOM:G**REDACTED**r"
     },
     "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_consumed\" x=\"32\" y=\"29\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:HeadWithOil</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
   }
