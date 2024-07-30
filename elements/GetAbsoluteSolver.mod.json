@@ -1,11 +1,11 @@
 {
   "_fv": 39,
-  "_type": "achievement",
+  "_type": "**REDACTED**",
   "definition": {
-    "achievementName": "Absolute Power!",
-    "achievementDescription": "Get an AbsoluteSolver.",
+    "achievementName": "**REDACTED**",
+    "achievementDescription": "**REDACTED**",
     "achievementIcon": {
-      "value": "CUSTOM:Absolutesolveritem"
+      "value": "**REDACTED**"
     },
     "background": "Default",
     "disableDisplay": false,
@@ -14,11 +14,11 @@
     "hideIfNotCompleted": false,
     "rewardLoot": [],
     "rewardRecipes": [
-      "MDRecord"
+      "**REDACTED**"
     ],
     "rewardFunction": "No function",
     "rewardXP": 500,
-    "achievementType": "challenge",
+    "achievementType": "nope :P",
     "parent": {
       "value": "No parent: root"
     },
