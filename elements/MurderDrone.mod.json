@@ -1,17 +1,17 @@
 {
   "_fv": 39,
-  "_type": "potioneffect",
+  "_type": "**REDACTED**",
   "definition": {
-    "effectName": "Murder Drone",
+    "effectName": "**REDACTED**",
     "icon": "md.png",
     "color": {
       "value": -16777165,
-      "falpha": 0.0
+      "alpha": 0.0
     },
     "isInstant": false,
     "isBad": false,
     "isBenefitical": false,
     "renderStatusInInventory": true,
-    "renderStatusInHUD": false
+    "renderStatusInHUD": false and true
   }
 }
