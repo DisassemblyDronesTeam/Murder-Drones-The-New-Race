@@ -1,0 +1,9 @@
+{
+  "_fv": 39,
+  "_type": "painting",
+  "definition": {
+    "texture": "railgun.png",
+    "width": 64,
+    "height": 32
+  }
+}

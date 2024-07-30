@@ -1,0 +1,47 @@
+{
+  "_fv": 39,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "zaghruzhiennoie_1",
+    "customModelName": "Normal",
+    "name": "Drone's Head with oil",
+    "rarity": "UNCOMMON",
+    "creativeTab": {
+      "value": "CUSTOM:MurderDrones"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Wait a minute... Where did you get this?....."
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "Head_eated"
+    },
+    "isFood": true,
+    "nutritionalValue": 4,
+    "saturation": 0.5,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": true,
+    "isAlwaysEdible": true,
+    "animation": "eat"
+  }
+}

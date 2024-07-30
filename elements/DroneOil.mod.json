@@ -1,0 +1,45 @@
+{
+  "_fv": 39,
+  "_type": "fluid",
+  "definition": {
+    "name": "Drone's Oil",
+    "bucketName": "Bucket of Drone Oil",
+    "textureStill": "water_texture_je3-a1_1",
+    "textureFlowing": "water_texture_je3-a1_1",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 5,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "SMOKE_LARGE"
+    },
+    "flowStrength": 0.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "water_bucket_je2_be2_1",
+    "creativeTab": {
+      "value": "CUSTOM:MurderDrones"
+    },
+    "emptySound": {
+      "value": "CUSTOM:oil_bucket"
+    },
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Apparently the oil was spilled quite..... recently?"
+    ],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT"
+  }
+}

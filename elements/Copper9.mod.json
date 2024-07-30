@@ -1,0 +1,58 @@
+{
+  "_fv": 39,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "snowy_mountains"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      },
+      {
+        "value": "snowy_slopes"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.BLUE_ICE"
+    },
+    "airColor": {
+      "value": -13434829,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.CUT_COPPER"
+    },
+    "portalParticles": {
+      "value": "ENCHANTMENT_TABLE"
+    },
+    "portalLuminance": 8,
+    "portalSound": {
+      "value": "CUSTOM:copper9_portalsfx"
+    },
+    "igniterName": "AbsoluteSolver (Activated)",
+    "igniterTab": {
+      "value": "CUSTOM:MurderDrones"
+    },
+    "texture": "pxart_1",
+    "portalTexture": "netherportal",
+    "enablePortal": true
+  }
+}
